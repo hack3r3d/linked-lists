@@ -1,0 +1,20 @@
+{
+    "name": "kk-linked-lists",
+    "version": "1.0.0",
+    "description": "A simple singly linked list implementation with basic operations.",
+    "main": "single.js",
+    "scripts": {
+        "test": "mocha tests/*.js --timeout=99999"
+    },
+    "keywords": [
+        "linked-list",
+        "data-structure",
+        "javascript",
+        "node"
+    ],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "mocha": "^11.7.4"
+    }
+}
