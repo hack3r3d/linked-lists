@@ -2,4 +2,5 @@
 
 Some examples of linked list implementations. I was messing around with implementing linked lists in different languages, and thought others might find these examples informative.
 
-* [Node](node/single/)
+* Node
+    * [Singly Linked List](node/single/)
